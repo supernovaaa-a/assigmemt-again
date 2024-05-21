@@ -1,0 +1,15 @@
+H:\Programming\Core  Coding\Core  Coding\bin\Debug\Core  Coding.exe.config
+H:\Programming\Core  Coding\Core  Coding\bin\Debug\Core  Coding.exe
+H:\Programming\Core  Coding\Core  Coding\bin\Debug\Core  Coding.pdb
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core  Coding.csproj.AssemblyReference.cache
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core  Coding.csproj.SuggestedBindingRedirects.cache
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core__Coding.Community.resources
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core__Coding.HelloWorld.resources
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core__Coding.Form1.resources
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core__Coding.Properties.Resources.resources
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core__Coding.Tutorials.resources
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core  Coding.csproj.GenerateResource.cache
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core  Coding.csproj.CoreCompileInputs.cache
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core  Coding.exe
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core  Coding.pdb
+H:\Programming\Core  Coding\Core  Coding\obj\Debug\Core__Coding.HelloWorld1.resources
